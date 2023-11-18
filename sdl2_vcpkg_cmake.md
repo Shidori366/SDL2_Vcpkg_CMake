@@ -14,7 +14,7 @@ Po nalezení potřebujeme vybrat triplet který bude fungovat s naším kompilá
 
 ![SDL2 install](images/SDL2_install.png)
 
-## přidání SDL2 do CMakeLists.txt
+## Přidání SDL2 do CMakeLists.txt
 Po instalaci SDL2 by se mělo objevit upozornění kde je možné kliknout na `Add to CMakeLists` nebo něco podobného.  
 Pokud se nic takového neobjeví, můžeme potřebný kód nalézt v `[vcpkg root]/vcpkg/installed/[triplet]/share/sdl2/` a tady **usage** file:
 
